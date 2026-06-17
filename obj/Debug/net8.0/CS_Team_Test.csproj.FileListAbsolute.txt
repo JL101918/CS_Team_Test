@@ -1,0 +1,15 @@
+E:\C# Team Test\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.exe
+E:\C# Team Test\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.deps.json
+E:\C# Team Test\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.runtimeconfig.json
+E:\C# Team Test\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.dll
+E:\C# Team Test\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.pdb
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.AssemblyInfoInputs.cache
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.AssemblyInfo.cs
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.csproj.CoreCompileInputs.cache
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.sourcelink.json
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.dll
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\refint\CS_Team_Test.dll
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.pdb
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.genruntimeconfig.cache
+E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\ref\CS_Team_Test.dll
