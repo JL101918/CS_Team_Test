@@ -17,14 +17,14 @@ namespace Question
             };
             int LeagueSize = 4;
             int MatchNo = 12;
-            int [,] NumOfStyle = new int[4,4];
+            int [,] NumOfStyle = new int[LeagueSize,4];
             int [] tot = new int[4];
             int Max = System.Math.Max(Math.Max(Math.Max(tot[0], tot[1]), tot[2]), tot[3]);
             int Min = System.Math.Min(Math.Min(Math.Min(tot[0], tot[1]), tot[2]), tot[3]); //Simplify repeating parts for optimization and simplicity
-            for (int j = 0; j < 4; j++) //rows
+            for (int j = 0; j < LeagueSize; j++) //rows
             {
                 tot[j] = TeamPoints[j, 0] + TeamPoints[j, 1] + TeamPoints[j, 2]; //calcuates the team points for each team
-                for (int x = 0; x < 3; x++) //columns
+                for (int x = 0; x < (MatchNo/LeagueSize); x++) //columns
                 {
                     if (TeamPoints[j,x] == 0) //you get the idea, each row for each team, documents amount of 0s 1s 2s or 3s.
                     {
