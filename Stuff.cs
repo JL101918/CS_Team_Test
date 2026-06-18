@@ -9,6 +9,7 @@ namespace Tutorial
         {
             Stuff Obj = new Stuff();
             Console.WriteLine(Obj.ran);
+            Console.WriteLine("Furry");
         }
     }
 }
