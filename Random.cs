@@ -6,7 +6,7 @@ namespace Tutorial
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("does it work chat?");
+            Console.WriteLine("");
         }
     }
 }
