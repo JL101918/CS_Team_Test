@@ -130,7 +130,6 @@ namespace ProjectLearn
                 Console.WriteLine($"Player {Player} have won the game!");
                 System.Environment.Exit(0);
             }
-    
         }
     }
 }
