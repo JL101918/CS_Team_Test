@@ -13,3 +13,18 @@ E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\refint\CS_Team_Test.dll
 E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.pdb
 E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.genruntimeconfig.cache
 E:\C# Team Test\CS_Team_Test\obj\Debug\net8.0\ref\CS_Team_Test.dll
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.exe
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.deps.json
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.runtimeconfig.json
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.dll
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\bin\Debug\net8.0\CS_Team_Test.pdb
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.AssemblyInfoInputs.cache
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.AssemblyInfo.cs
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.sourcelink.json
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.dll
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\refint\CS_Team_Test.dll
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.pdb
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\CS_Team_Test.genruntimeconfig.cache
+C:\Users\Admin\Downloads\C# together\CS_Team_Test\obj\Debug\net8.0\ref\CS_Team_Test.dll
