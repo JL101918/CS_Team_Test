@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\C# together\\CS_Team_Test\\CS_Team_Test.csproj": {}
+    "E:\\C# Team Test\\CS_Team_Test\\CS_Team_Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\C# together\\CS_Team_Test\\CS_Team_Test.csproj": {
+    "E:\\C# Team Test\\CS_Team_Test\\CS_Team_Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\C# together\\CS_Team_Test\\CS_Team_Test.csproj",
+        "projectUniqueName": "E:\\C# Team Test\\CS_Team_Test\\CS_Team_Test.csproj",
         "projectName": "CS_Team_Test",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\C# together\\CS_Team_Test\\CS_Team_Test.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\C# together\\CS_Team_Test\\obj\\",
+        "projectPath": "E:\\C# Team Test\\CS_Team_Test\\CS_Team_Test.csproj",
+        "packagesPath": "C:\\Users\\ROG\\.nuget\\packages\\",
+        "outputPath": "E:\\C# Team Test\\CS_Team_Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ROG\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,19 +59,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[8.0.28, 8.0.28]"
+              "version": "[8.0.27, 8.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.28, 8.0.28]"
+              "version": "[8.0.27, 8.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[8.0.28, 8.0.28]"
+              "version": "[8.0.27, 8.0.27]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[8.0.28, 8.0.28]"
+              "version": "[8.0.27, 8.0.27]"
             }
           ],
           "frameworkReferences": {
@@ -79,7 +79,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.301/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.300/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
