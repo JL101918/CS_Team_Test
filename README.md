@@ -36,3 +36,14 @@ Dotnet restore --> checks if all C# #libraries are there (and downloads any libr
 Dotnet build --> compiler reads files and tries to convert it to clanker language (sorry, binary), if build fails it breaks.
 
 Dotnet run  --> runs it :D
+
+## Other Stuff
+- [x] Completed task
+- [ ] Incomplete task
+
+# Big
+## Smaller Big
+### Smaller Smaller Big?
+#### Medium
+##### Small
+###### Little man from China small
