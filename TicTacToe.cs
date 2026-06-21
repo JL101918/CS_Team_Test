@@ -131,7 +131,7 @@ namespace ProjectLearn
                 Console.WriteLine($"Player {Player} have won the game!");
                 System.Environment.Exit(0);
             }
-            if ((tiles[1] != "1") && (tiles[2] != "2") && (tiles[3] != "3") && (tiles[4] != "4") && (tiles[5] != "5") && (tiles[6] != "6") && (tiles[7] != "7") && (tiles[8] != "8") && (tiles[9] != "9"));
+            if ((tiles[1] != "1") && (tiles[2] != "2") && (tiles[3] != "3") && (tiles[4] != "4") && (tiles[5] != "5") && (tiles[6] != "6") && (tiles[7] != "7") && (tiles[8] != "8") && (tiles[9] != "9"))
             {
                 Console.WriteLine("Draw!");
                 System.Environment.Exit(0);
